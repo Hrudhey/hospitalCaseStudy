@@ -1,0 +1,14 @@
+{
+  "name": "day16-casestudy",
+  "version": "1.0.0",
+  "description": "Case Study using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hrudhey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
